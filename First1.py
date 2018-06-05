@@ -23,7 +23,7 @@ def calc(x):
     if x > 3:
         return [1, 2, 3]
     else:
-        return '454545'
+        return '4545'
 for i in calc(2):
     print i
 
