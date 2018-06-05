@@ -1,3 +1,3 @@
 def second_func():
     print "second"
-    return 2
+    return 3
